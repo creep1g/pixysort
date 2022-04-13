@@ -4,12 +4,12 @@ PixySort is a Qt5 application that currently is only built for Windows.
 PixySort was built as a part of a C++ course in Reykjavík University.
 
 ## Installation
-using git 
-   ```
+using git <\br>
+   `
     git clone https://github.com/creep1g/pixysort.git
     open pixysort directory
     and run pixysort.exe
-    ```
+    `
 or Download the zip from the github website, unzip and run pixysort.exe
 
 ## Usage
