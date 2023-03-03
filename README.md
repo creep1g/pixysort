@@ -1,7 +1,6 @@
 # pixysort
 ## Info
 PixySort is a Qt5 application that currently is only built for Windows.
-PixySort was built as a part of a C++ course in Reykjavík University.
 
 ## Installation
 using git
